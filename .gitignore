@@ -38,3 +38,6 @@ build/
 *.user
 /2019/1/Puzzle.1/Puzzle.1/x64/Debug
 /2019/1/Puzzle.1/x64/Debug
+/2019/2/Puzzle.2/Puzzle.2/bin/Debug/netcoreapp3.0
+/2019/2/Puzzle.2/Puzzle.2/obj/Debug/netcoreapp3.0
+/2019/2/Puzzle.2/Puzzle.2/obj
