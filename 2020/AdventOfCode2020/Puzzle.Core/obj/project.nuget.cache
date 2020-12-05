@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUkybnGo71rof5B78ppgSJrVKIk+v7L7sRVdavZY+Yi9w4GNi9hW3yQ1wkleEy6LJ1EFYy1/TuZCDW7DZuOjpg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Advent_of_code\\2020\\AdventOfCode2020\\Puzzle.Core\\Puzzle.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vincent Bissonnette\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vincent Bissonnette\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
